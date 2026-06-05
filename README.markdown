@@ -1,4 +1,4 @@
-# AI Backshot Roulette
+# AI Buckshot Roulette
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![NumPy](https://img.shields.io/badge/numpy-required-orange)
